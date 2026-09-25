@@ -53,6 +53,3 @@ npm run dev
 
 - Daily sending limit is fixed per provider quota
 
-## 📄 License
-
-MIT
