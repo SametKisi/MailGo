@@ -34,7 +34,4 @@ A bulk email campaign tool — upload a recipient list (or add emails manually),
 - Node.js 18+
 - Credentials for your email sending provider
 
-## 🗺️ Roadmap / Known Limitations
-
-- Daily sending limit is fixed per provider quota
 
