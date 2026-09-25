@@ -17,7 +17,6 @@ A bulk email campaign tool — upload a recipient list (or add emails manually),
 
 ## 🏗️ Tech Stack
 
-> Fill this in with your actual stack — happy to update once you confirm:
 - Frontend: React (assumed, based on your other projects) — confirm framework, styling, state management
 - Backend / email sending: confirm framework (Express, etc.) and provider (Resend, Nodemailer + SMTP, SendGrid, etc.)
 - Any database used to store campaigns/archive?
