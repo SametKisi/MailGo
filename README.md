@@ -34,21 +34,6 @@ A bulk email campaign tool — upload a recipient list (or add emails manually),
 - Node.js 18+
 - Credentials for your email sending provider
 
-### Setup
-
-```bash
-npm install
-cp .env.example .env   # fill in your email provider credentials
-npm run dev
-```
-
-## 🔧 Environment Variables
-
-| Variable | Description |
-|---|---|
-| `EMAIL_PROVIDER_API_KEY` | API key for your email sending service |
-| `DAILY_SEND_LIMIT` | Max emails allowed per day |
-
 ## 🗺️ Roadmap / Known Limitations
 
 - Daily sending limit is fixed per provider quota
